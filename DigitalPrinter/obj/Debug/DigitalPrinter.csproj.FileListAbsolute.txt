@@ -1,0 +1,14 @@
+D:\Dropbox\Projects\Visual Studio\Misc\DigitalPrinter\DigitalPrinter\bin\Debug\DigitalPrinter.exe.config
+D:\Dropbox\Projects\Visual Studio\Misc\DigitalPrinter\DigitalPrinter\bin\Debug\DigitalPrinter.exe
+D:\Dropbox\Projects\Visual Studio\Misc\DigitalPrinter\DigitalPrinter\bin\Debug\DigitalPrinter.pdb
+D:\Dropbox\Projects\Visual Studio\Misc\DigitalPrinter\DigitalPrinter\obj\Debug\DigitalPrinter.csprojResolveAssemblyReference.cache
+D:\Dropbox\Projects\Visual Studio\Misc\DigitalPrinter\DigitalPrinter\obj\Debug\DigitalPrinter.exe
+D:\Dropbox\Projects\Visual Studio\Misc\DigitalPrinter\DigitalPrinter\obj\Debug\DigitalPrinter.pdb
+D:\Dropbox\Projects\Visual Studio\Misc\DigitalPrinter\DigitalPrinter\bin\Debug\ThoughtWorks.Selenium.Core.dll
+D:\Dropbox\Projects\Visual Studio\Misc\DigitalPrinter\DigitalPrinter\bin\Debug\WebDriver.dll
+D:\Dropbox\Projects\Visual Studio\Misc\DigitalPrinter\DigitalPrinter\bin\Debug\ThoughtWorks.Selenium.Core.pdb
+D:\Dropbox\Projects\Visual Studio\Misc\DigitalPrinter\DigitalPrinter\bin\Debug\ThoughtWorks.Selenium.Core.xml
+D:\Dropbox\Projects\Visual Studio\Misc\DigitalPrinter\DigitalPrinter\bin\Debug\WebDriver.pdb
+D:\Dropbox\Projects\Visual Studio\Misc\DigitalPrinter\DigitalPrinter\bin\Debug\WebDriver.xml
+D:\Dropbox\Projects\Visual Studio\Misc\DigitalPrinter\DigitalPrinter\bin\Debug\Guesser.exe
+D:\Dropbox\Projects\Visual Studio\Misc\DigitalPrinter\DigitalPrinter\bin\Debug\Guesser.pdb

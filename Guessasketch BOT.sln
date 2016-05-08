@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DigitalPrinter", "DigitalPrinter\DigitalPrinter.csproj", "{503360CB-E43B-4FDE-8614-4C44BD5D18EC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Guesser", "Guesser\Guesser.csproj", "{8DE42AFD-9230-41A6-8784-F313897175DF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Partial", "Partial\Partial.csproj", "{04A2F6E4-C2CD-4D7A-9C08-E07C671C1DAF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{503360CB-E43B-4FDE-8614-4C44BD5D18EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{503360CB-E43B-4FDE-8614-4C44BD5D18EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{503360CB-E43B-4FDE-8614-4C44BD5D18EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{503360CB-E43B-4FDE-8614-4C44BD5D18EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8DE42AFD-9230-41A6-8784-F313897175DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8DE42AFD-9230-41A6-8784-F313897175DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8DE42AFD-9230-41A6-8784-F313897175DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8DE42AFD-9230-41A6-8784-F313897175DF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{04A2F6E4-C2CD-4D7A-9C08-E07C671C1DAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04A2F6E4-C2CD-4D7A-9C08-E07C671C1DAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04A2F6E4-C2CD-4D7A-9C08-E07C671C1DAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04A2F6E4-C2CD-4D7A-9C08-E07C671C1DAF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
