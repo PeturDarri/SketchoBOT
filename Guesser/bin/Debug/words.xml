@@ -1,14 +1,9 @@
 <words>
-  <guess word="fwaves">
-    <win x="1">fish</win>
-  </guess>
   <guess word="clouds">
-    <win x="1">fish</win>
     <win x="1">poodle</win>
   </guess>
   <guess word="ocean">
     <win x="1">fish</win>
-    <win x="1">infinity</win>
     <win x="1">water</win>
     <win x="1">fisherman</win>
     <win x="1">soak</win>
@@ -22,7 +17,6 @@
     <win x="1">island</win>
     <win x="1">mountain</win>
     <win x="1">shark</win>
-    <win x="1">bone</win>
     <win x="1">boat</win>
     <win x="1">refrigerator</win>
     <win x="1">overflow</win>
@@ -46,6 +40,8 @@
     <win x="1">percent</win>
     <win x="1">swordfish</win>
     <win x="1">throw</win>
+    <win x="1">fan</win>
+    <win x="1">bracelet</win>
   </guess>
   <guess word="hes back">
     <win x="1">clap</win>
@@ -132,6 +128,7 @@
     <win x="1">steer</win>
     <win x="1">turntable</win>
     <win x="1">planet</win>
+    <win x="1">fan</win>
   </guess>
   <guess word="monster">
     <win x="1">clap</win>
@@ -186,6 +183,7 @@
     <win x="1">goose</win>
     <win x="1">defect</win>
     <win x="1">match</win>
+    <win x="1">time</win>
   </guess>
   <guess word="swear">
     <win x="1">clap</win>
@@ -202,6 +200,8 @@
     <win x="1">clap</win>
     <win x="1">eye</win>
     <win x="1">cross fingers</win>
+    <win x="1">fan</win>
+    <win x="1">winter</win>
   </guess>
   <guess word="sweat">
     <win x="1">clap</win>
@@ -303,6 +303,7 @@
     <win x="1">measles</win>
     <win x="1">behind</win>
     <win x="1">milkshake</win>
+    <win x="1">bobsled</win>
   </guess>
   <guess word="jaw">
     <win x="1">mosquito</win>
@@ -325,6 +326,7 @@
     <win x="1">part</win>
     <win x="1">milkshake</win>
     <win x="1">stomach</win>
+    <win x="1">bracelet</win>
   </guess>
   <guess word="portrait">
     <win x="1">mosquito</win>
@@ -337,6 +339,7 @@
     <win x="1">punch</win>
     <win x="1">greenhouse</win>
     <win x="1">die</win>
+    <win x="1">cactus</win>
   </guess>
   <guess word="bite">
     <win x="1">mosquito</win>
@@ -345,6 +348,7 @@
     <win x="1">ant</win>
     <win x="1">muzzle</win>
     <win x="1">eye</win>
+    <win x="1">fan</win>
   </guess>
   <guess word="mouse">
     <win x="1">mosquito</win>
@@ -457,6 +461,7 @@
     <win x="1">toaster</win>
     <win x="1">stirrup</win>
     <win x="1">burnt</win>
+    <win x="1">winter</win>
   </guess>
   <guess word="lamp">
     <win x="1">wrist</win>
@@ -485,6 +490,12 @@
     <win x="1">ankle</win>
     <win x="1">bunk beds</win>
     <win x="1">doorknob</win>
+    <win x="1">fan</win>
+    <win x="1">time</win>
+    <win x="1">snowboard</win>
+    <win x="1">bobsled</win>
+    <win x="1">teacher</win>
+    <win x="1">bracelet</win>
   </guess>
   <guess word="thats craz">
     <win x="1">wrist</win>
@@ -558,13 +569,14 @@
     <win x="1">length</win>
     <win x="1">ankle</win>
     <win x="1">milkshake</win>
+    <win x="1">waffle</win>
   </guess>
   <guess word="bone">
     <win x="1">wrist</win>
     <win x="1">kitten</win>
     <win x="1">elbow</win>
     <win x="1">moth</win>
-    <win x="1">bone</win>
+    <win x="2">bone</win>
     <win x="1">golf</win>
     <win x="1">muzzle</win>
   </guess>
@@ -598,6 +610,7 @@
     <win x="1">apple core</win>
     <win x="1">sapphire</win>
     <win x="1">match</win>
+    <win x="1">fan</win>
   </guess>
   <guess word="skate">
     <win x="1">caterpillar</win>
@@ -628,6 +641,7 @@
     <win x="1">overheat</win>
     <win x="1">tap</win>
     <win x="1">match</win>
+    <win x="1">fan</win>
   </guess>
   <guess word="skateboard">
     <win x="1">caterpillar</win>
@@ -643,6 +657,7 @@
     <win x="1">caterpillar</win>
     <win x="1">toad</win>
     <win x="1">black widow</win>
+    <win x="1">thermometer</win>
   </guess>
   <guess word="maybe">
     <win x="1">run</win>
@@ -713,6 +728,7 @@
     <win x="1">run</win>
     <win x="1">length</win>
     <win x="1">plastic</win>
+    <win x="1">cactus</win>
   </guess>
   <guess word="valley">
     <win x="1">run</win>
@@ -792,6 +808,7 @@
     <win x="1">wallpaper</win>
     <win x="1">finland</win>
     <win x="1">peanut</win>
+    <win x="1">broom</win>
   </guess>
   <guess word="door">
     <win x="1">ladybug</win>
@@ -819,6 +836,7 @@
     <win x="1">skylight</win>
     <win x="1">doorknob</win>
     <win x="1">brakes</win>
+    <win x="1">waffle</win>
   </guess>
   <guess word="edge">
     <win x="1">ladybug</win>
@@ -835,6 +853,8 @@
     <win x="1">reverse</win>
     <win x="1">tinsel</win>
     <win x="1">rear view mirror</win>
+    <win x="1">winter</win>
+    <win x="1">bobsled</win>
   </guess>
   <guess word="windeow">
     <win x="1">ladybug</win>
@@ -908,6 +928,9 @@
     <win x="1">camera</win>
     <win x="1">telephone</win>
     <win x="1">heel</win>
+    <win x="1">computer</win>
+    <win x="1">waffle</win>
+    <win x="1">fan</win>
   </guess>
   <guess word="pane">
     <win x="1">ladybug</win>
@@ -948,6 +971,8 @@
     <win x="1">skylight</win>
     <win x="1">patio</win>
     <win x="1">brakes</win>
+    <win x="1">elephant</win>
+    <win x="1">bracelet</win>
   </guess>
   <guess word="bunny">
     <win x="1">ladybug</win>
@@ -956,6 +981,7 @@
     <win x="1">finger</win>
     <win x="1">manicurist</win>
     <win x="1">daisy</win>
+    <win x="1">fan</win>
   </guess>
   <guess word="dog">
     <win x="1">ladybug</win>
@@ -982,6 +1008,9 @@
     <win x="1">ski</win>
     <win x="1">rifle</win>
     <win x="1">muzzle</win>
+    <win x="1">unicorn</win>
+    <win x="1">time</win>
+    <win x="1">bracelet</win>
   </guess>
   <guess word="pet">
     <win x="1">ladybug</win>
@@ -1014,6 +1043,9 @@
     <win x="1">no</win>
     <win x="1">muzzle</win>
     <win x="1">milkshake</win>
+    <win x="1">time</win>
+    <win x="1">teacher</win>
+    <win x="1">bracelet</win>
   </guess>
   <guess word="home">
     <win x="1">ladybug</win>
@@ -1100,6 +1132,7 @@
     <win x="1">ladybug</win>
     <win x="1">snore</win>
     <win x="1">safe</win>
+    <win x="1">computer</win>
   </guess>
   <guess word="tennisracket">
     <win x="1">ladybug</win>
@@ -1149,6 +1182,7 @@
     <win x="1">eyebrow</win>
     <win x="1">toad</win>
     <win x="1">manicurist</win>
+    <win x="1">fan</win>
   </guess>
   <guess word="sucker">
     <win x="1">ladybug</win>
@@ -1285,6 +1319,7 @@
     <win x="1">match</win>
     <win x="1">milkshake</win>
     <win x="1">haircut</win>
+    <win x="1">bracelet</win>
   </guess>
   <guess word="bambi">
     <win x="1">gas station</win>
@@ -1316,6 +1351,7 @@
     <win x="1">giraffe</win>
     <win x="1">tepee</win>
     <win x="1">earphone</win>
+    <win x="1">time</win>
   </guess>
   <guess word="kangroo">
     <win x="1">gas station</win>
@@ -1345,6 +1381,7 @@
     <win x="1">monkey</win>
     <win x="1">rifle</win>
     <win x="1">milkshake</win>
+    <win x="1">time</win>
   </guess>
   <guess word="eye">
     <win x="1">gas station</win>
@@ -1373,6 +1410,7 @@
     <win x="1">match</win>
     <win x="1">around</win>
     <win x="1">handle</win>
+    <win x="1">bracelet</win>
   </guess>
   <guess word="mooseanters">
     <win x="1">gas station</win>
@@ -1385,6 +1423,7 @@
   </guess>
   <guess word="anteater">
     <win x="1">gas station</win>
+    <win x="1">thermometer</win>
   </guess>
   <guess word="go to it">
     <win x="1">gas station</win>
@@ -1406,6 +1445,7 @@
     <win x="1">win</win>
     <win x="1">smile</win>
     <win x="1">blush</win>
+    <win x="1">bracelet</win>
   </guess>
   <guess word="happz">
     <win x="1">gas station</win>
@@ -1434,6 +1474,7 @@
     <win x="1">gas station</win>
     <win x="1">tongue</win>
     <win x="1">oar</win>
+    <win x="1">toilet</win>
   </guess>
   <guess word="flowey">
     <win x="1">gas station</win>
@@ -1492,6 +1533,9 @@
     <win x="1">haircut</win>
     <win x="1">doorknob</win>
     <win x="1">bad breath</win>
+    <win x="1">tennis ball</win>
+    <win x="1">time</win>
+    <win x="1">teacher</win>
   </guess>
   <guess word="kek">
     <win x="1">gas station</win>
@@ -1500,6 +1544,7 @@
   <guess word="computer">
     <win x="1">gas station</win>
     <win x="1">paint</win>
+    <win x="1">computer</win>
   </guess>
   <guess word="wir">
     <win x="1">gas station</win>
@@ -1621,6 +1666,10 @@
     <win x="1">tap</win>
     <win x="1">snort</win>
     <win x="1">dove</win>
+    <win x="1">elephant</win>
+    <win x="1">time</win>
+    <win x="1">bobsled</win>
+    <win x="1">teacher</win>
   </guess>
   <guess word="trunk">
     <win x="1">trunk</win>
@@ -1685,6 +1734,7 @@
     <win x="1">lawn bowling</win>
     <win x="1">daisy</win>
     <win x="1">dove</win>
+    <win x="1">toilet</win>
   </guess>
   <guess word="hatch">
     <win x="1">pear</win>
@@ -1703,6 +1753,7 @@
     <win x="1">unite</win>
     <win x="1">burst</win>
     <win x="1">eyelash</win>
+    <win x="1">fan</win>
   </guess>
   <guess word="club">
     <win x="1">pear</win>
@@ -1714,6 +1765,7 @@
   </guess>
   <guess word="walrus">
     <win x="1">pear</win>
+    <win x="1">time</win>
   </guess>
   <guess word="ear">
     <win x="1">pear</win>
@@ -1729,6 +1781,9 @@
     <win x="1">thief</win>
     <win x="1">part</win>
     <win x="1">bad breath</win>
+    <win x="1">toilet</win>
+    <win x="1">fan</win>
+    <win x="1">bobsled</win>
   </guess>
   <guess word="small">
     <win x="1">pear</win>
@@ -1742,6 +1797,8 @@
     <win x="1">soak</win>
     <win x="1">toad</win>
     <win x="1">dove</win>
+    <win x="1">fan</win>
+    <win x="1">time</win>
   </guess>
   <guess word="hear">
     <win x="1">pear</win>
@@ -1798,11 +1855,14 @@
     <win x="1">daisy</win>
     <win x="1">burnt</win>
     <win x="1">count</win>
+    <win x="1">toilet</win>
+    <win x="1">time</win>
   </guess>
   <guess word="pear">
     <win x="3">pear</win>
     <win x="1">toad</win>
     <win x="1">finland</win>
+    <win x="1">fan</win>
   </guess>
   <guess word="leaf">
     <win x="1">sandals</win>
@@ -1819,6 +1879,7 @@
     <win x="1">plastic</win>
     <win x="1">pile</win>
     <win x="1">peas</win>
+    <win x="1">fan</win>
   </guess>
   <guess word="fine">
     <win x="1">sandals</win>
@@ -1862,6 +1923,7 @@
     <win x="1">monkey</win>
     <win x="1">muzzle</win>
     <win x="1">milkshake</win>
+    <win x="1">time</win>
   </guess>
   <guess word="legs">
     <win x="1">sandals</win>
@@ -1961,7 +2023,7 @@
     <win x="1">sandals</win>
   </guess>
   <guess word="sandals">
-    <win x="1">sandals</win>
+    <win x="2">sandals</win>
   </guess>
   <guess word=";s">
     <win x="1">waffle</win>
@@ -2117,6 +2179,7 @@
     <win x="1">punch</win>
     <win x="1">win</win>
     <win x="1">blush</win>
+    <win x="1">ruler</win>
   </guess>
   <guess word="worry">
     <win x="1">waffle</win>
@@ -2167,6 +2230,7 @@
     <win x="1">swordfish</win>
     <win x="1">dove</win>
     <win x="1">surfboard</win>
+    <win x="1">fan</win>
   </guess>
   <guess word="wallet">
     <win x="1">waffle</win>
@@ -2180,7 +2244,7 @@
     <win x="1">waffle</win>
   </guess>
   <guess word="purse">
-    <win x="1">waffle</win>
+    <win x="2">waffle</win>
     <win x="1">spurs</win>
     <win x="1">haul</win>
   </guess>
@@ -2217,7 +2281,7 @@
     <win x="1">snowball</win>
   </guess>
   <guess word="corn">
-    <win x="1">waffle</win>
+    <win x="2">waffle</win>
     <win x="1">bracelet</win>
     <win x="1">taste bud</win>
     <win x="1">plastic</win>
@@ -2240,7 +2304,7 @@
     <win x="1">waffle</win>
   </guess>
   <guess word="waffle">
-    <win x="1">waffle</win>
+    <win x="2">waffle</win>
     <win x="1">parrot</win>
     <win x="1">black eye</win>
   </guess>
@@ -2279,6 +2343,7 @@
   </guess>
   <guess word="skunk">
     <win x="1">raccoon</win>
+    <win x="1">toilet</win>
   </guess>
   <guess word="hornet">
     <win x="1">raccoon</win>
@@ -2294,6 +2359,7 @@
   </guess>
   <guess word="beaver">
     <win x="1">raccoon</win>
+    <win x="1">time</win>
   </guess>
   <guess word="shark">
     <win x="1">raccoon</win>
@@ -2307,6 +2373,8 @@
     <win x="1">boat</win>
     <win x="1">refrigerator</win>
     <win x="1">elevate</win>
+    <win x="1">fan</win>
+    <win x="1">time</win>
   </guess>
   <guess word="millipede">
     <win x="1">raccoon</win>
@@ -2329,6 +2397,7 @@
     <win x="1">oil</win>
     <win x="1">jam</win>
     <win x="1">measuring cup</win>
+    <win x="1">toilet</win>
   </guess>
   <guess word="honeye">
     <win x="1">raccoon</win>
@@ -2399,6 +2468,7 @@
     <win x="1">bow</win>
     <win x="1">postman</win>
     <win x="1">hat</win>
+    <win x="1">bobsled</win>
   </guess>
   <guess word="hippo">
     <win x="1">cowboy hat</win>
@@ -2494,6 +2564,7 @@
     <win x="1">badge</win>
     <win x="1">football</win>
     <win x="1">muzzle</win>
+    <win x="1">tennis ball</win>
   </guess>
   <guess word="beachball">
     <win x="1">parrot</win>
@@ -2522,6 +2593,7 @@
     <win x="1">reverse</win>
     <win x="1">taxidermy</win>
     <win x="1">festival</win>
+    <win x="1">bobsled</win>
   </guess>
   <guess word="h eho">
     <win x="1">parrot</win>
@@ -2551,6 +2623,10 @@
     <win x="1">foot</win>
     <win x="1">pilot</win>
     <win x="1">rattlesnake</win>
+    <win x="1">cap</win>
+    <win x="1">elephant</win>
+    <win x="1">cactus</win>
+    <win x="1">fan</win>
   </guess>
   <guess word="sooooo">
     <win x="1">parrot</win>
@@ -2795,6 +2871,7 @@
     <win x="1">boil</win>
     <win x="1">win</win>
     <win x="1">match</win>
+    <win x="1">ruler</win>
   </guess>
   <guess word="whale">
     <win x="1">hot dog</win>
@@ -2804,6 +2881,7 @@
     <win x="1">river</win>
     <win x="1">porthole</win>
     <win x="1">elevate</win>
+    <win x="1">fan</win>
   </guess>
   <guess word="ship">
     <win x="1">hot dog</win>
@@ -2852,6 +2930,7 @@
     <win x="1">frown</win>
     <win x="1">smile</win>
     <win x="1">peas</win>
+    <win x="1">toilet</win>
   </guess>
   <guess word="ts okey">
     <win x="1">hot dog</win>
@@ -2886,6 +2965,7 @@
     <win x="2">hot dog</win>
     <win x="1">eye</win>
     <win x="1">match</win>
+    <win x="1">cap</win>
   </guess>
   <guess word="doctor">
     <win x="1">balloon</win>
@@ -2975,6 +3055,7 @@
     <win x="1">boil</win>
     <win x="1">eye</win>
     <win x="1">jam</win>
+    <win x="1">bobsled</win>
   </guess>
   <guess word="flute">
     <win x="1">balloon</win>
@@ -3167,6 +3248,7 @@
     <win x="1">napkin</win>
     <win x="1">extinct</win>
     <win x="1">cauldron</win>
+    <win x="1">time</win>
   </guess>
   <guess word="hop scotch">
     <win x="1">parallel bars</win>
@@ -3273,6 +3355,7 @@
     <win x="1">percent</win>
     <win x="1">die</win>
     <win x="1">jam</win>
+    <win x="1">time</win>
   </guess>
   <guess word="circle">
     <win x="1">magnifying glass</win>
@@ -3334,6 +3417,7 @@
     <win x="1">where</win>
     <win x="1">overheat</win>
     <win x="1">jam</win>
+    <win x="1">bracelet</win>
   </guess>
   <guess word="paper">
     <win x="1">blackboard</win>
@@ -3359,6 +3443,7 @@
     <win x="1">part</win>
     <win x="1">tissue</win>
     <win x="1">light switch</win>
+    <win x="1">bracelet</win>
   </guess>
   <guess word="box">
     <win x="1">blackboard</win>
@@ -3492,6 +3577,7 @@
     <win x="1">pile</win>
     <win x="1">fire</win>
     <win x="1">broken window</win>
+    <win x="1">broom</win>
   </guess>
   <guess word="moth">
     <win x="1">bracelet</win>
@@ -3505,6 +3591,7 @@
     <win x="1">flame</win>
     <win x="1">vein</win>
     <win x="1">win</win>
+    <win x="1">broom</win>
   </guess>
   <guess word="coffes">
     <win x="1">bracelet</win>
@@ -3546,6 +3633,10 @@
     <win x="1">overheat</win>
     <win x="1">tissue</win>
     <win x="1">movie</win>
+    <win x="1">ruler</win>
+    <win x="1">waffle</win>
+    <win x="1">pots and pans</win>
+    <win x="1">bracelet</win>
   </guess>
   <guess word="rectangle">
     <win x="1">mat</win>
@@ -3607,6 +3698,7 @@
     <win x="1">cord</win>
     <win x="1">sled</win>
     <win x="1">no</win>
+    <win x="1">bobsled</win>
   </guess>
   <guess word="sea">
     <win x="1">infinity</win>
@@ -3623,6 +3715,8 @@
     <win x="1">overflow</win>
     <win x="1">dove</win>
     <win x="1">stream</win>
+    <win x="1">fan</win>
+    <win x="1">unicorn</win>
   </guess>
   <guess word="under the sea">
     <win x="1">infinity</win>
@@ -3663,6 +3757,7 @@
     <win x="1">rake</win>
     <win x="1">forgery</win>
     <win x="1">door</win>
+    <win x="1">broom</win>
   </guess>
   <guess word="life raft">
     <win x="1">infinity</win>
@@ -3730,6 +3825,7 @@
     <win x="1">elbow</win>
     <win x="1">belly button</win>
     <win x="1">milkshake</win>
+    <win x="1">snowboard</win>
   </guess>
   <guess word="long sleve">
     <win x="1">lapel</win>
@@ -3742,6 +3838,7 @@
     <win x="1">lapel</win>
     <win x="1">part</win>
     <win x="1">match</win>
+    <win x="1">ruler</win>
   </guess>
   <guess word="jacket">
     <win x="1">lapel</win>
@@ -3811,6 +3908,7 @@
     <win x="1">lawn bowling</win>
     <win x="1">dove</win>
     <win x="1">heel</win>
+    <win x="1">bracelet</win>
   </guess>
   <guess word="botton">
     <win x="1">lapel</win>
@@ -3822,6 +3920,7 @@
     <win x="1">growl</win>
     <win x="1">stewardess</win>
     <win x="1">milkshake</win>
+    <win x="1">time</win>
   </guess>
   <guess word="collor">
     <win x="1">lapel</win>
@@ -3901,6 +4000,8 @@
     <win x="1">blanket</win>
     <win x="1">radio</win>
     <win x="1">ski</win>
+    <win x="1">bobsled</win>
+    <win x="1">bracelet</win>
   </guess>
   <guess word="alphabet">
     <win x="1">prism</win>
@@ -4017,6 +4118,8 @@
     <win x="1">ankle</win>
     <win x="1">milkshake</win>
     <win x="1">haircut</win>
+    <win x="1">time</win>
+    <win x="1">snowboard</win>
   </guess>
   <guess word="coca cola">
     <win x="1">takeoff</win>
@@ -4129,6 +4232,8 @@
     <win x="1">iron</win>
     <win x="1">thumb</win>
     <win x="1">traffic light</win>
+    <win x="1">fan</win>
+    <win x="1">bracelet</win>
   </guess>
   <guess word="firework">
     <win x="1">takeoff</win>
@@ -4159,6 +4264,7 @@
     <win x="1">signature</win>
     <win x="1">curl</win>
     <win x="1">mine</win>
+    <win x="1">broom</win>
   </guess>
   <guess word="yep notsketcho">
     <win x="1">takeoff</win>
@@ -4308,6 +4414,9 @@
     <win x="1">overflow</win>
     <win x="1">area code</win>
     <win x="1">dove</win>
+    <win x="1">snowboard</win>
+    <win x="1">sandals</win>
+    <win x="1">teacher</win>
   </guess>
   <guess word="hole">
     <win x="1">beady eyes</win>
@@ -4484,6 +4593,7 @@
     <win x="1">zebra</win>
     <win x="1">boil</win>
     <win x="1">shower</win>
+    <win x="1">toilet</win>
   </guess>
   <guess word="q">
     <win x="1">magnify</win>
@@ -4526,6 +4636,9 @@
     <win x="1">cross fingers</win>
     <win x="1">broken window</win>
     <win x="1">bad breath</win>
+    <win x="1">winter</win>
+    <win x="1">snowboard</win>
+    <win x="1">bobsled</win>
   </guess>
   <guess word="high five">
     <win x="1">jab</win>
@@ -4542,6 +4655,7 @@
     <win x="1">golf</win>
     <win x="1">boil</win>
     <win x="1">coral</win>
+    <win x="1">broom</win>
   </guess>
   <guess word="hold">
     <win x="1">jab</win>
@@ -4710,6 +4824,7 @@
     <win x="1">walk</win>
     <win x="1">jab</win>
     <win x="1">part</win>
+    <win x="1">sandals</win>
   </guess>
   <guess word="hand">
     <win x="1">bum</win>
@@ -4728,6 +4843,7 @@
     <win x="1">eye</win>
     <win x="1">cross fingers</win>
     <win x="1">mailman</win>
+    <win x="1">sandals</win>
   </guess>
   <guess word="woman">
     <win x="1">bum</win>
@@ -4742,6 +4858,8 @@
     <win x="1">reject</win>
     <win x="1">part</win>
     <win x="1">bad breath</win>
+    <win x="1">winter</win>
+    <win x="1">snowboard</win>
   </guess>
   <guess word="man made">
     <win x="1">bum</win>
@@ -4750,6 +4868,7 @@
     <win x="1">bum</win>
     <win x="2">elbow</win>
     <win x="1">thumb</win>
+    <win x="1">sandals</win>
   </guess>
   <guess word="policeman">
     <win x="1">bum</win>
@@ -4839,10 +4958,12 @@
     <win x="1">bone</win>
     <win x="1">shoelace</win>
     <win x="1">win</win>
+    <win x="1">bobsled</win>
   </guess>
   <guess word="salt">
     <win x="1">cello</win>
     <win x="1">index</win>
+    <win x="1">bobsled</win>
   </guess>
   <guess word="guitar">
     <win x="1">cello</win>
@@ -5027,6 +5148,7 @@
     <win x="1">fisherman</win>
     <win x="1">south</win>
     <win x="1">swordfish</win>
+    <win x="1">fan</win>
   </guess>
   <guess word="fisher">
     <win x="1">sail</win>
@@ -5070,6 +5192,7 @@
     <win x="1">bee</win>
     <win x="3">zebra</win>
     <win x="1">throat</win>
+    <win x="1">time</win>
   </guess>
   <guess word="?">
     <win x="1">strike</win>
@@ -5170,6 +5293,8 @@
     <win x="1">boat</win>
     <win x="1">vein</win>
     <win x="1">dove</win>
+    <win x="1">fan</win>
+    <win x="1">unicorn</win>
   </guess>
   <guess word="waterfall">
     <win x="1">beach</win>
@@ -5221,6 +5346,7 @@
     <win x="1">forgery</win>
     <win x="1">behind</win>
     <win x="1">notch</win>
+    <win x="1">snowboard</win>
   </guess>
   <guess word="teddy bear">
     <win x="1">beach</win>
@@ -5252,6 +5378,7 @@
     <win x="1">win</win>
     <win x="1">banner</win>
     <win x="1">die</win>
+    <win x="1">fan</win>
   </guess>
   <guess word="sick">
     <win x="1">toenail</win>
@@ -5292,6 +5419,7 @@
     <win x="1">milkshake</win>
     <win x="1">stomach</win>
     <win x="1">bunk beds</win>
+    <win x="1">snowboard</win>
   </guess>
   <guess word="falcon punch">
     <win x="1">toenail</win>
@@ -5345,6 +5473,7 @@
     <win x="1">shave</win>
     <win x="1">wine</win>
     <win x="1">golf</win>
+    <win x="1">bobsled</win>
   </guess>
   <guess word="shaver">
     <win x="1">shave</win>
@@ -5428,6 +5557,8 @@
     <win x="1">rooster</win>
     <win x="1">stirrup</win>
     <win x="1">snail</win>
+    <win x="1">toilet</win>
+    <win x="1">thermometer</win>
   </guess>
   <guess word="gooooooooooooooooooooood gooooogily mooooooooooooooooogilyyyy">
     <win x="1">nut</win>
@@ -5609,14 +5740,17 @@
   <guess word="freezer">
     <win x="1">snore</win>
     <win x="1">bookcase</win>
+    <win x="1">tree house</win>
   </guess>
   <guess word="target">
     <win x="1">snore</win>
     <win x="1">door</win>
+    <win x="1">time</win>
   </guess>
   <guess word="stove">
     <win x="1">snore</win>
     <win x="1">comics</win>
+    <win x="1">computer</win>
   </guess>
   <guess word="mashing machine">
     <win x="1">snore</win>
@@ -5887,6 +6021,7 @@
     <win x="1">drawer</win>
     <win x="1">rear view mirror</win>
     <win x="1">broken window</win>
+    <win x="1">bobsled</win>
   </guess>
   <guess word="infant">
     <win x="1">infinity</win>
@@ -5912,6 +6047,7 @@
     <win x="1">tree house</win>
     <win x="1">snowman</win>
     <win x="1">bible</win>
+    <win x="1">time</win>
   </guess>
   <guess word="dark">
     <win x="1">casper</win>
@@ -5997,6 +6133,7 @@
     <win x="1">postcard</win>
     <win x="1">bunk beds</win>
     <win x="1">movie</win>
+    <win x="1">bobsled</win>
   </guess>
   <guess word="dreams">
     <win x="1">chalk</win>
@@ -6009,6 +6146,7 @@
     <win x="1">echo</win>
     <win x="1">earphone</win>
     <win x="1">brass knuckles</win>
+    <win x="1">unicorn</win>
   </guess>
   <guess word="saddle">
     <win x="1">boots</win>
@@ -6027,6 +6165,7 @@
     <win x="1">boots</win>
     <win x="1">soap</win>
     <win x="1">tepee</win>
+    <win x="1">bobsled</win>
   </guess>
   <guess word="doncky">
     <win x="1">boots</win>
@@ -6035,6 +6174,7 @@
     <win x="1">boots</win>
     <win x="1">eyebrow</win>
     <win x="1">soap</win>
+    <win x="1">time</win>
   </guess>
   <guess word="riding">
     <win x="1">boots</win>
@@ -6064,6 +6204,7 @@
     <win x="1">gorilla</win>
     <win x="1">notch</win>
     <win x="1">frown</win>
+    <win x="1">teacher</win>
   </guess>
   <guess word="lion">
     <win x="1">gorilla</win>
@@ -6077,6 +6218,7 @@
     <win x="1">bible</win>
     <win x="1">blush</win>
     <win x="1">milkshake</win>
+    <win x="1">teacher</win>
   </guess>
   <guess word="muscles">
     <win x="1">gorilla</win>
@@ -6093,6 +6235,7 @@
     <win x="1">big bad wolf</win>
     <win x="1">no</win>
     <win x="1">dime</win>
+    <win x="1">time</win>
   </guess>
   <guess word="u did good">
     <win x="1">raindrop</win>
@@ -6142,6 +6285,7 @@
     <win x="1">daisy</win>
     <win x="1">eye</win>
     <win x="1">brakes</win>
+    <win x="1">broom</win>
   </guess>
   <guess word="oranges">
     <win x="1">raindrop</win>
@@ -6226,6 +6370,7 @@
   <guess word="raindrops">
     <win x="1">raindrop</win>
     <win x="1">winter</win>
+    <win x="1">rain</win>
   </guess>
   <guess word="rat">
     <win x="1">girl</win>
@@ -6284,6 +6429,8 @@
     <win x="1">doll</win>
     <win x="1">cuddle</win>
     <win x="1">parent</win>
+    <win x="1">snowboard</win>
+    <win x="1">teacher</win>
   </guess>
   <guess word="xd">
     <win x="1">ball</win>
@@ -6326,6 +6473,7 @@
     <win x="1">ball</win>
     <win x="1">window</win>
     <win x="1">broken window</win>
+    <win x="1">bobsled</win>
   </guess>
   <guess word="ant">
     <win x="1">ball</win>
@@ -6335,6 +6483,7 @@
     <win x="1">ant</win>
     <win x="1">throat</win>
     <win x="1">swing</win>
+    <win x="1">thermometer</win>
   </guess>
   <guess word="desk">
     <win x="1">ball</win>
@@ -6397,6 +6546,7 @@
   </guess>
   <guess word="helicopter">
     <win x="1">ball</win>
+    <win x="1">thermometer</win>
   </guess>
   <guess word="plug">
     <win x="1">ball</win>
@@ -6572,6 +6722,7 @@
   <guess word="tennisball">
     <win x="1">eyebrow</win>
     <win x="1">football</win>
+    <win x="1">tennis ball</win>
   </guess>
   <guess word="basketballplayerr">
     <win x="1">eyebrow</win>
@@ -6606,6 +6757,8 @@
     <win x="1">die</win>
     <win x="1">muzzle</win>
     <win x="1">dove</win>
+    <win x="1">time</win>
+    <win x="1">teacher</win>
   </guess>
   <guess word="pikachu">
     <win x="1">eyebrow</win>
@@ -6631,6 +6784,8 @@
     <win x="1">space</win>
     <win x="1">peanut</win>
     <win x="1">swordfish</win>
+    <win x="1">fan</win>
+    <win x="1">time</win>
   </guess>
   <guess word="giraff">
     <win x="1">eyebrow</win>
@@ -6641,6 +6796,9 @@
     <win x="1">bone</win>
     <win x="1">lawn bowling</win>
     <win x="1">dove</win>
+    <win x="1">fan</win>
+    <win x="1">winter</win>
+    <win x="1">bracelet</win>
   </guess>
   <guess word="pppiiiiicachooo">
     <win x="1">eyebrow</win>
@@ -6657,6 +6815,8 @@
     <win x="1">cardboard</win>
     <win x="1">daisy</win>
     <win x="1">milkshake</win>
+    <win x="1">time</win>
+    <win x="1">bobsled</win>
   </guess>
   <guess word="horse">
     <win x="1">eyebrow</win>
@@ -6785,6 +6945,8 @@
     <win x="1">percent</win>
     <win x="1">pile</win>
     <win x="1">jam</win>
+    <win x="1">unicorn</win>
+    <win x="1">bracelet</win>
   </guess>
   <guess word="honey">
     <win x="1">pie</win>
@@ -6852,6 +7014,7 @@
     <win x="1">table</win>
     <win x="1">cherry</win>
     <win x="1">teeth</win>
+    <win x="1">fan</win>
   </guess>
   <guess word="peas">
     <win x="1">pie</win>
@@ -6871,6 +7034,8 @@
     <win x="1">jam</win>
     <win x="1">mine</win>
     <win x="1">hat</win>
+    <win x="1">toilet</win>
+    <win x="1">bracelet</win>
   </guess>
   <guess word="dinner">
     <win x="1">pie</win>
@@ -7034,6 +7199,7 @@
     <win x="1">area code</win>
     <win x="1">handle</win>
     <win x="1">cross fingers</win>
+    <win x="1">winter</win>
   </guess>
   <guess word="chat">
     <win x="1">sister</win>
@@ -7276,14 +7442,18 @@
   <guess word="eel">
     <win x="1">pirate</win>
     <win x="1">telephone cord</win>
+    <win x="1">fan</win>
+    <win x="1">time</win>
   </guess>
   <guess word="eyebrow">
     <win x="1">pirate</win>
     <win x="1">lightning</win>
     <win x="1">boil</win>
+    <win x="1">teacher</win>
   </guess>
   <guess word="fins">
     <win x="1">pirate</win>
+    <win x="1">fan</win>
   </guess>
   <guess word="toothpaste">
     <win x="1">pirate</win>
@@ -7551,6 +7721,7 @@
     <win x="1">muzzle</win>
     <win x="1">dove</win>
     <win x="1">four leaf clover</win>
+    <win x="1">time</win>
   </guess>
   <guess word="branch">
     <win x="1">climb</win>
@@ -7642,6 +7813,7 @@
     <win x="1">mule</win>
     <win x="1">monkey</win>
     <win x="1">milkshake</win>
+    <win x="1">teacher</win>
   </guess>
   <guess word="bralette">
     <win x="1">zebra</win>
@@ -7667,6 +7839,7 @@
     <win x="1">furniture</win>
     <win x="1">ankle</win>
     <win x="1">milkshake</win>
+    <win x="1">time</win>
   </guess>
   <guess word="ostrich">
     <win x="1">zebra</win>
@@ -7694,6 +7867,7 @@
     <win x="1">zebra</win>
     <win x="1">growl</win>
     <win x="1">muzzle</win>
+    <win x="1">time</win>
   </guess>
   <guess word="dingo">
     <win x="1">zebra</win>
@@ -7758,6 +7932,7 @@
     <win x="1">clothes</win>
     <win x="1">greenhouse</win>
     <win x="1">earphone</win>
+    <win x="1">broom</win>
   </guess>
   <guess word="cliff">
     <win x="1">penguin</win>
@@ -7935,6 +8110,7 @@
     <win x="1">soap</win>
     <win x="1">swimsuit</win>
     <win x="1">handicap</win>
+    <win x="1">bobsled</win>
   </guess>
   <guess word="dominos">
     <win x="1">soap</win>
@@ -7997,6 +8173,7 @@
   <guess word="cyclops">
     <win x="1">soap</win>
     <win x="1">hawaii</win>
+    <win x="1">time</win>
   </guess>
   <guess word="saddlehorse">
     <win x="1">soap</win>
@@ -8074,6 +8251,7 @@
   </guess>
   <guess word="rrake">
     <win x="1">soap</win>
+    <win x="1">bracelet</win>
   </guess>
   <guess word="pitchfork">
     <win x="1">soap</win>
@@ -8209,6 +8387,7 @@
     <win x="1">ballot</win>
     <win x="1">hoop</win>
     <win x="1">daisy</win>
+    <win x="1">bobsled</win>
   </guess>
   <guess word="thanks ">
     <win x="1">dining room</win>
@@ -8307,6 +8486,7 @@
     <win x="1">notch</win>
     <win x="1">dime</win>
     <win x="1">handle</win>
+    <win x="1">sandals</win>
   </guess>
   <guess word="revolver">
     <win x="1">shark</win>
@@ -8349,6 +8529,7 @@
     <win x="1">continent</win>
     <win x="1">thumb</win>
     <win x="1">dove</win>
+    <win x="1">bracelet</win>
   </guess>
   <guess word="muscle">
     <win x="1">swimsuit</win>
@@ -8483,6 +8664,8 @@
     <win x="1">university</win>
     <win x="1">area code</win>
     <win x="1">pile</win>
+    <win x="1">cactus</win>
+    <win x="1">fan</win>
   </guess>
   <guess word="butterfly">
     <win x="1">bug</win>
@@ -8530,6 +8713,7 @@
     <win x="1">tripod</win>
     <win x="1">around</win>
     <win x="1">ankle</win>
+    <win x="1">bracelet</win>
   </guess>
   <guess word="stupid pig!">
     <win x="1">baseball shoes</win>
@@ -8673,6 +8857,7 @@
     <win x="1">stream</win>
     <win x="1">ankle</win>
     <win x="1">cross fingers</win>
+    <win x="1">pots and pans</win>
   </guess>
   <guess word="swimming pool">
     <win x="1">fisherman</win>
@@ -8683,6 +8868,7 @@
     <win x="1">soak</win>
     <win x="1">mountain</win>
     <win x="1">dove</win>
+    <win x="1">unicorn</win>
   </guess>
   <guess word="swimm">
     <win x="1">fisherman</win>
@@ -8700,6 +8886,7 @@
     <win x="1">poster</win>
     <win x="1">swordfish</win>
     <win x="1">dove</win>
+    <win x="1">cap</win>
   </guess>
   <guess word="cloues">
     <win x="1">rain</win>
@@ -8743,6 +8930,7 @@
     <win x="1">unite</win>
     <win x="1">refrigerator</win>
     <win x="1">land</win>
+    <win x="1">grasshopper</win>
   </guess>
   <guess word="lawnmower">
     <win x="1">giraffe</win>
@@ -8818,6 +9006,7 @@
     <win x="1">muzzle</win>
     <win x="1">dime</win>
     <win x="1">milkshake</win>
+    <win x="1">time</win>
   </guess>
   <guess word="awe">
     <win x="1">moth</win>
@@ -9008,6 +9197,7 @@
     <win x="1">spatula</win>
     <win x="1">golf</win>
     <win x="1">coral</win>
+    <win x="1">broom</win>
   </guess>
   <guess word="couchbed">
     <win x="1">mousetrap</win>
@@ -9281,6 +9471,7 @@
     <win x="1">ankle</win>
     <win x="1">signature</win>
     <win x="1">broken window</win>
+    <win x="1">bobsled</win>
   </guess>
   <guess word="........">
     <win x="1">bottle</win>
@@ -9308,6 +9499,7 @@
   <guess word="sandcastle">
     <win x="1">bottle</win>
     <win x="1">handle</win>
+    <win x="1">sandals</win>
   </guess>
   <guess word="castlehill">
     <win x="1">bottle</win>
@@ -9462,6 +9654,7 @@
   <guess word="remote">
     <win x="1">call</win>
     <win x="1">overheat</win>
+    <win x="1">bobsled</win>
   </guess>
   <guess word="on">
     <win x="1">call</win>
@@ -9485,6 +9678,7 @@
     <win x="1">call</win>
     <win x="1">butterfly</win>
     <win x="1">refrigerator</win>
+    <win x="1">thermometer</win>
   </guess>
   <guess word="light switch">
     <win x="1">call</win>
@@ -9583,6 +9777,7 @@
     <win x="1">thumb</win>
     <win x="1">index</win>
     <win x="1">percent</win>
+    <win x="1">pots and pans</win>
   </guess>
   <guess word="globe">
     <win x="1">geography</win>
@@ -9844,6 +10039,7 @@
     <win x="1">badge</win>
     <win x="1">noose</win>
     <win x="1">thief</win>
+    <win x="1">fan</win>
   </guess>
   <guess word="bombard">
     <win x="1">pump</win>
@@ -10017,6 +10213,8 @@
     <win x="1">hoe</win>
     <win x="1">poll</win>
     <win x="1">dove</win>
+    <win x="1">broom</win>
+    <win x="1">bracelet</win>
   </guess>
   <guess word="freddie">
     <win x="1">ribs</win>
@@ -10118,6 +10316,7 @@
     <win x="1">sapphire</win>
     <win x="1">dove</win>
     <win x="1">stomach</win>
+    <win x="1">bracelet</win>
   </guess>
   <guess word="oh trump">
     <win x="1">telephone cord</win>
@@ -10155,6 +10354,7 @@
   <guess word="telephone">
     <win x="1">telephone cord</win>
     <win x="1">match</win>
+    <win x="1">elephant</win>
   </guess>
   <guess word="telephone cord">
     <win x="1">telephone cord</win>
@@ -10204,6 +10404,7 @@
     <win x="1">tap</win>
     <win x="1">match</win>
     <win x="1">count</win>
+    <win x="1">ruler</win>
   </guess>
   <guess word="fas">
     <win x="1">pansy</win>
@@ -10240,6 +10441,7 @@
   </guess>
   <guess word="sadf">
     <win x="1">pansy</win>
+    <win x="1">ruler</win>
   </guess>
   <guess word="as">
     <win x="1">pansy</win>
@@ -10381,6 +10583,7 @@
     <win x="1">spurs</win>
     <win x="1">swordfish</win>
     <win x="1">sapphire</win>
+    <win x="1">bracelet</win>
   </guess>
   <guess word="jam">
     <win x="1">busy signal</win>
@@ -10624,6 +10827,7 @@
   <guess word="thermometer">
     <win x="1">stirrup</win>
     <win x="1">clothes</win>
+    <win x="1">thermometer</win>
   </guess>
   <guess word="interna.l">
     <win x="1">stirrup</win>
@@ -10639,6 +10843,7 @@
   </guess>
   <guess word="internal">
     <win x="1">stirrup</win>
+    <win x="1">thermometer</win>
   </guess>
   <guess word="int">
     <win x="1">stirrup</win>
@@ -10650,9 +10855,11 @@
   </guess>
   <guess word="tte">
     <win x="1">stirrup</win>
+    <win x="1">thermometer</win>
   </guess>
   <guess word="nte">
     <win x="1">stirrup</win>
+    <win x="1">thermometer</win>
   </guess>
   <guess word="ste">
     <win x="1">stirrup</win>
@@ -10661,6 +10868,7 @@
   </guess>
   <guess word="ete">
     <win x="1">stirrup</win>
+    <win x="1">thermometer</win>
   </guess>
   <guess word="stepsister">
     <win x="1">stirrup</win>
@@ -10671,6 +10879,7 @@
   </guess>
   <guess word="fun">
     <win x="1">stirrup</win>
+    <win x="1">fan</win>
   </guess>
   <guess word="cluster">
     <win x="1">stirrup</win>
@@ -10718,6 +10927,7 @@
   </guess>
   <guess word="termites">
     <win x="1">stirrup</win>
+    <win x="1">thermometer</win>
   </guess>
   <guess word="astreoid">
     <win x="1">stirrup</win>
@@ -10842,6 +11052,7 @@
     <win x="1">spatula</win>
     <win x="1">evaporate</win>
     <win x="1">mailman</win>
+    <win x="1">broom</win>
   </guess>
   <guess word="spatula">
     <win x="1">spatula</win>
@@ -11014,12 +11225,14 @@
   </guess>
   <guess word="skunkape">
     <win x="1">spurs</win>
+    <win x="1">bracelet</win>
   </guess>
   <guess word="hahahahahahahah">
     <win x="1">spurs</win>
   </guess>
   <guess word="lipskis">
     <win x="1">spurs</win>
+    <win x="1">bracelet</win>
   </guess>
   <guess word="draw">
     <win x="1">spurs</win>
@@ -11028,6 +11241,8 @@
     <win x="1">poster</win>
     <win x="1">index</win>
     <win x="1">telephone</win>
+    <win x="1">broom</win>
+    <win x="1">bracelet</win>
   </guess>
   <guess word="non">
     <win x="1">spurs</win>
@@ -11042,12 +11257,14 @@
     <win x="1">bible</win>
     <win x="1">swordfish</win>
     <win x="1">cell</win>
+    <win x="1">time</win>
   </guess>
   <guess word="art">
     <win x="1">spurs</win>
     <win x="1">goose</win>
     <win x="1">index</win>
     <win x="1">brush</win>
+    <win x="1">bracelet</win>
   </guess>
   <guess word="ook">
     <win x="1">spurs</win>
@@ -11248,6 +11465,8 @@
     <win x="1">roll</win>
     <win x="1">ankle</win>
     <win x="1">light switch</win>
+    <win x="1">waffle</win>
+    <win x="1">bracelet</win>
   </guess>
   <guess word="shoppingbag">
     <win x="1">spurs</win>
@@ -11296,6 +11515,7 @@
     <win x="1">match</win>
     <win x="1">area code</win>
     <win x="1">peas</win>
+    <win x="1">cactus</win>
   </guess>
   <guess word="habit">
     <win x="1">toad</win>
@@ -11310,6 +11530,7 @@
     <win x="1">toad</win>
     <win x="1">area code</win>
     <win x="1">peas</win>
+    <win x="1">cactus</win>
   </guess>
   <guess word="cheeks">
     <win x="1">pack</win>
@@ -11408,6 +11629,7 @@
     <win x="1">oil</win>
     <win x="1">mountain</win>
     <win x="1">candle</win>
+    <win x="1">toilet</win>
   </guess>
   <guess word="wish">
     <win x="1">bounce</win>
@@ -11446,6 +11668,7 @@
     <win x="1">bounce</win>
     <win x="1">notch</win>
     <win x="1">ball</win>
+    <win x="1">broom</win>
   </guess>
   <guess word="trampoline">
     <win x="1">bounce</win>
@@ -11459,12 +11682,14 @@
     <win x="1">swing</win>
     <win x="1">lawn bowling</win>
     <win x="1">area code</win>
+    <win x="1">winter</win>
   </guess>
   <guess word="jail">
     <win x="1">bounce</win>
     <win x="1">ball</win>
     <win x="1">peanut</win>
     <win x="1">thief</win>
+    <win x="1">waffle</win>
   </guess>
   <guess word="cage">
     <win x="1">bounce</win>
@@ -11529,6 +11754,10 @@
     <win x="1">boil</win>
     <win x="1">vein</win>
     <win x="1">snail</win>
+    <win x="1">snowboard</win>
+    <win x="1">bobsled</win>
+    <win x="1">sandals</win>
+    <win x="1">bracelet</win>
   </guess>
   <guess word="smelly yuki">
     <win x="1">shower</win>
@@ -11567,6 +11796,7 @@
   <guess word="pooh">
     <win x="1">shower</win>
     <win x="1">pile</win>
+    <win x="1">toilet</win>
   </guess>
   <guess word="lightshower">
     <win x="1">shower</win>
@@ -11612,6 +11842,7 @@
   </guess>
   <guess word="clocktime">
     <win x="1">sing</win>
+    <win x="1">time</win>
   </guess>
   <guess word="midnight">
     <win x="1">sing</win>
@@ -11846,6 +12077,7 @@
     <win x="1">tissue</win>
     <win x="1">penguin</win>
     <win x="1">bunk beds</win>
+    <win x="1">bracelet</win>
   </guess>
   <guess word="lightning">
     <win x="1">harpoon</win>
@@ -11915,6 +12147,7 @@
   </guess>
   <guess word="wahle">
     <win x="1">harpoon</win>
+    <win x="1">unicorn</win>
   </guess>
   <guess word="machete">
     <win x="1">harpoon</win>
@@ -12091,6 +12324,7 @@
     <win x="1">camera</win>
     <win x="1">flashlight</win>
     <win x="1">flower</win>
+    <win x="1">broom</win>
   </guess>
   <guess word="fure">
     <win x="1">inflation</win>
@@ -12136,6 +12370,7 @@
   <guess word="glare">
     <win x="1">punch</win>
     <win x="1">match</win>
+    <win x="1">bracelet</win>
   </guess>
   <guess word="playing">
     <win x="1">punch</win>
@@ -12154,6 +12389,7 @@
   <guess word="point">
     <win x="1">punch</win>
     <win x="1">forgery</win>
+    <win x="1">bracelet</win>
   </guess>
   <guess word="tomaot">
     <win x="1">punch</win>
@@ -12200,6 +12436,7 @@
     <win x="1">refrigerator</win>
     <win x="1">die</win>
     <win x="1">area code</win>
+    <win x="1">broom</win>
   </guess>
   <guess word="beads">
     <win x="1">ornament</win>
@@ -12265,9 +12502,11 @@
     <win x="4">sled</win>
     <win x="1">swing</win>
     <win x="1">ski</win>
+    <win x="1">bobsled</win>
   </guess>
   <guess word="bobsled">
     <win x="1">dog sled</win>
+    <win x="1">bobsled</win>
   </guess>
   <guess word="bobsoled">
     <win x="1">dog sled</win>
@@ -12289,6 +12528,7 @@
   </guess>
   <guess word="sle">
     <win x="1">dog sled</win>
+    <win x="1">bobsled</win>
   </guess>
   <guess word="sledge">
     <win x="1">dog sled</win>
@@ -12338,6 +12578,7 @@
     <win x="1">sardine</win>
     <win x="1">percent</win>
     <win x="1">middle east</win>
+    <win x="1">time</win>
   </guess>
   <guess word="santa">
     <win x="1">continent</win>
@@ -12350,6 +12591,7 @@
     <win x="1">continent</win>
     <win x="1">swing</win>
     <win x="1">overheat</win>
+    <win x="1">winter</win>
   </guess>
   <guess word="des">
     <win x="1">continent</win>
@@ -12395,6 +12637,7 @@
   </guess>
   <guess word="applecore">
     <win x="1">stapler</win>
+    <win x="1">fan</win>
   </guess>
   <guess word="adamsapple">
     <win x="1">stapler</win>
@@ -12440,6 +12683,7 @@
     <win x="1">wine</win>
     <win x="1">thief</win>
     <win x="1">bunk beds</win>
+    <win x="1">fan</win>
   </guess>
   <guess word="butterfyl">
     <win x="1">sardine</win>
@@ -12739,6 +12983,8 @@
     <win x="1">jam</win>
     <win x="1">grenade</win>
     <win x="1">match</win>
+    <win x="1">broom</win>
+    <win x="1">bracelet</win>
   </guess>
   <guess word="crumbs">
     <win x="1">officer</win>
@@ -12782,6 +13028,7 @@
     <win x="1">frown</win>
     <win x="1">eye</win>
     <win x="1">overflow</win>
+    <win x="1">teacher</win>
   </guess>
   <guess word="tug">
     <win x="1">table</win>
@@ -12847,6 +13094,7 @@
   </guess>
   <guess word="prick">
     <win x="1">gymnastics</win>
+    <win x="1">bracelet</win>
   </guess>
   <guess word="gymnastics">
     <win x="1">gymnastics</win>
@@ -12860,6 +13108,7 @@
     <win x="1">mule</win>
     <win x="1">snort</win>
     <win x="1">area code</win>
+    <win x="1">teacher</win>
   </guess>
   <guess word="theet">
     <win x="1">sweat</win>
@@ -12901,6 +13150,7 @@
   </guess>
   <guess word="cheerleader">
     <win x="1">greenhouse</win>
+    <win x="1">teacher</win>
   </guess>
   <guess word="(͡° ͜ʖ ͡°)">
     <win x="1">greenhouse</win>
@@ -13002,6 +13252,7 @@
   <guess word="checkers">
     <win x="1">greenhouse</win>
     <win x="1">ball</win>
+    <win x="1">waffle</win>
   </guess>
   <guess word="rofol">
     <win x="1">greenhouse</win>
@@ -13082,6 +13333,7 @@
     <win x="1">dog</win>
     <win x="2">poodle</win>
     <win x="1">wag</win>
+    <win x="1">time</win>
   </guess>
   <guess word="unicorn">
     <win x="1">tepee</win>
@@ -13204,6 +13456,7 @@
   </guess>
   <guess word="match">
     <win x="1">complete</win>
+    <win x="1">broom</win>
   </guess>
   <guess word="stopppp!">
     <win x="1">complete</win>
@@ -13254,6 +13507,7 @@
   </guess>
   <guess word="nailfile">
     <win x="1">toenail</win>
+    <win x="1">unicorn</win>
   </guess>
   <guess word="anorexic">
     <win x="1">broken leg</win>
@@ -13317,6 +13571,7 @@
     <win x="1">stewardess</win>
     <win x="1">taste bud</win>
     <win x="1">cauldron</win>
+    <win x="1">bobsled</win>
   </guess>
   <guess word="javelin">
     <win x="1">south</win>
@@ -13398,6 +13653,7 @@
   <guess word="bleed">
     <win x="1">evaporate</win>
     <win x="1">match</win>
+    <win x="1">fan</win>
   </guess>
   <guess word="reported">
     <win x="1">evaporate</win>
@@ -13456,6 +13712,7 @@
     <win x="1">goose</win>
     <win x="1">poster</win>
     <win x="1">dig</win>
+    <win x="1">bobsled</win>
   </guess>
   <guess word="coma">
     <win x="1">goose</win>
@@ -13487,6 +13744,7 @@
     <win x="1">index</win>
     <win x="1">thief</win>
     <win x="1">overheat</win>
+    <win x="1">broom</win>
   </guess>
   <guess word="swallow">
     <win x="1">goose</win>
@@ -13508,6 +13766,7 @@
     <win x="1">goose</win>
     <win x="1">iron</win>
     <win x="1">desk</win>
+    <win x="1">fan</win>
   </guess>
   <guess word="hook">
     <win x="1">goose</win>
@@ -13517,6 +13776,7 @@
     <win x="1">bone</win>
     <win x="1">plastic</win>
     <win x="1">match</win>
+    <win x="1">fan</win>
   </guess>
   <guess word="innk">
     <win x="1">goose</win>
@@ -13699,6 +13959,7 @@
     <win x="1">eyebrow</win>
     <win x="1">niagara falls</win>
     <win x="1">furniture</win>
+    <win x="1">sandals</win>
   </guess>
   <guess word="spin">
     <win x="1">eyebrow</win>
@@ -13766,6 +14027,7 @@
   <guess word="cereal">
     <win x="1">dinosaur</win>
     <win x="1">safe</win>
+    <win x="1">toilet</win>
   </guess>
   <guess word="salad">
     <win x="1">dinosaur</win>
@@ -13822,6 +14084,8 @@
     <win x="1">measles</win>
     <win x="1">forgery</win>
     <win x="1">big bad wolf</win>
+    <win x="1">time</win>
+    <win x="1">bobsled</win>
   </guess>
   <guess word="mummy">
     <win x="1">defect</win>
@@ -13977,6 +14241,7 @@
     <win x="1">muzzle</win>
     <win x="1">match</win>
     <win x="1">dove</win>
+    <win x="1">cactus</win>
   </guess>
   <guess word="trex">
     <win x="1">napkin</win>
@@ -14124,6 +14389,7 @@
   </guess>
   <guess word="launch">
     <win x="1">spaceship</win>
+    <win x="1">bracelet</win>
   </guess>
   <guess word="9/11****">
     <win x="1">wedding</win>
@@ -14349,6 +14615,7 @@
   <guess word="tattoo">
     <win x="1">steer</win>
     <win x="1">forgery</win>
+    <win x="1">fan</win>
   </guess>
   <guess word="lary">
     <win x="1">steer</win>
@@ -14524,6 +14791,7 @@
   </guess>
   <guess word="panther">
     <win x="1">cave</win>
+    <win x="1">time</win>
   </guess>
   <guess word="vass">
     <win x="1">cave</win>
@@ -14635,6 +14903,7 @@
     <win x="1">bowling</win>
     <win x="1">teeth</win>
     <win x="1">heel</win>
+    <win x="1">teacher</win>
   </guess>
   <guess word="aviator">
     <win x="1">movie star</win>
@@ -14680,6 +14949,7 @@
   </guess>
   <guess word="reindeer">
     <win x="1">reindeer</win>
+    <win x="1">time</win>
   </guess>
   <guess word="yellowwww">
     <win x="1">rake</win>
@@ -14755,6 +15025,7 @@
   <guess word="earrings">
     <win x="1">lightning</win>
     <win x="1">boil</win>
+    <win x="1">toilet</win>
   </guess>
   <guess word="clou">
     <win x="1">lightning</win>
@@ -14889,6 +15160,8 @@
     <win x="1">handle</win>
     <win x="1">mailman</win>
     <win x="1">poodle</win>
+    <win x="1">toilet</win>
+    <win x="1">cactus</win>
   </guess>
   <guess word="godzilla">
     <win x="1">extinct</win>
@@ -15313,6 +15586,7 @@
   <guess word="screen">
     <win x="1">forgery</win>
     <win x="1">banner</win>
+    <win x="1">bobsled</win>
   </guess>
   <guess word="pad">
     <win x="1">forgery</win>
@@ -15521,6 +15795,7 @@
     <win x="1">traffic light</win>
     <win x="1">peanut</win>
     <win x="1">match</win>
+    <win x="1">thermometer</win>
   </guess>
   <guess word="smoke stack">
     <win x="1">noahs ark</win>
@@ -15636,9 +15911,13 @@
   <guess word="see">
     <win x="1">thumb</win>
     <win x="1">match</win>
+    <win x="1">bobsled</win>
+    <win x="1">bracelet</win>
   </guess>
   <guess word="look">
     <win x="1">thumb</win>
+    <win x="1">teacher</win>
+    <win x="1">bracelet</win>
   </guess>
   <guess word="astronomy">
     <win x="1">thumb</win>
@@ -15832,6 +16111,7 @@
   <guess word="flow">
     <win x="1">river</win>
     <win x="1">vein</win>
+    <win x="1">fan</win>
   </guess>
   <guess word="sub">
     <win x="1">river</win>
@@ -16050,6 +16330,7 @@
   <guess word="bait">
     <win x="1">notch</win>
     <win x="1">dove</win>
+    <win x="1">fan</win>
   </guess>
   <guess word="sli">
     <win x="1">notch</win>
@@ -16455,6 +16736,7 @@
   </guess>
   <guess word="mop">
     <win x="1">hoe</win>
+    <win x="1">bracelet</win>
   </guess>
   <guess word="plow">
     <win x="1">hoe</win>
@@ -16735,6 +17017,7 @@
     <win x="1">bullfight</win>
     <win x="1">poodle</win>
     <win x="1">milkshake</win>
+    <win x="1">time</win>
   </guess>
   <guess word="hors">
     <win x="1">bullfight</win>
@@ -16759,6 +17042,7 @@
   </guess>
   <guess word="bullseye">
     <win x="1">bullfight</win>
+    <win x="1">time</win>
   </guess>
   <guess word="bullie">
     <win x="1">bullfight</win>
@@ -17296,6 +17580,7 @@
   </guess>
   <guess word="para">
     <win x="1">bubble bath</win>
+    <win x="1">bobsled</win>
   </guess>
   <guess word="sidewlak">
     <win x="1">bubble bath</win>
@@ -17332,6 +17617,7 @@
     <win x="1">door</win>
     <win x="1">dime</win>
     <win x="1">bunk beds</win>
+    <win x="1">broom</win>
   </guess>
   <guess word="jaeyes">
     <win x="1">snowball</win>
@@ -17344,6 +17630,7 @@
   </guess>
   <guess word="mus">
     <win x="1">index</win>
+    <win x="1">teacher</win>
   </guess>
   <guess word="pedophile">
     <win x="1">index</win>
@@ -17470,6 +17757,7 @@
     <win x="1">banner</win>
     <win x="1">solo</win>
     <win x="1">eye</win>
+    <win x="1">winter</win>
   </guess>
   <guess word="vocal">
     <win x="1">wine</win>
@@ -17484,6 +17772,7 @@
     <win x="1">wine</win>
     <win x="1">furniture</win>
     <win x="1">count</win>
+    <win x="1">bracelet</win>
   </guess>
   <guess word="jazza">
     <win x="1">wine</win>
@@ -17511,9 +17800,11 @@
     <win x="1">wine</win>
     <win x="1">pass</win>
     <win x="1">tissue</win>
+    <win x="1">broom</win>
   </guess>
   <guess word="shave">
     <win x="1">wine</win>
+    <win x="1">bobsled</win>
   </guess>
   <guess word="sardine">
     <win x="1">wine</win>
@@ -17728,6 +18019,7 @@
   </guess>
   <guess word="interview">
     <win x="1">sink</win>
+    <win x="1">thermometer</win>
   </guess>
   <guess word="unanimous">
     <win x="1">sink</win>
@@ -18567,6 +18859,7 @@
     <win x="1">swing</win>
     <win x="1">win</win>
     <win x="1">dove</win>
+    <win x="1">winter</win>
   </guess>
   <guess word="lose">
     <win x="1">cry</win>
@@ -18614,6 +18907,7 @@
   </guess>
   <guess word="hatcap">
     <win x="1">snowman</win>
+    <win x="1">bobsled</win>
   </guess>
   <guess word="shut up!!!">
     <win x="1">shark</win>
@@ -18624,6 +18918,7 @@
   <guess word="icicles">
     <win x="1">shark</win>
     <win x="1">percent</win>
+    <win x="1">bracelet</win>
   </guess>
   <guess word="air">
     <win x="1">shark</win>
@@ -18956,6 +19251,7 @@
   </guess>
   <guess word="pas">
     <win x="1">stewardess</win>
+    <win x="1">bracelet</win>
   </guess>
   <guess word="steeeo">
     <win x="1">stewardess</win>
@@ -19082,6 +19378,7 @@
   <guess word="sleepingbag">
     <win x="1">swing</win>
     <win x="1">pass</win>
+    <win x="1">bobsled</win>
   </guess>
   <guess word="racing">
     <win x="1">swing</win>
@@ -19097,6 +19394,7 @@
     <win x="1">area code</win>
     <win x="1">dove</win>
     <win x="1">handle</win>
+    <win x="1">winter</win>
   </guess>
   <guess word="chiul">
     <win x="1">ski</win>
@@ -19237,6 +19535,7 @@
     <win x="1">rifle</win>
     <win x="1">coral</win>
     <win x="1">ankle</win>
+    <win x="1">broom</win>
   </guess>
   <guess word="ocena">
     <win x="1">boat</win>
@@ -19398,6 +19697,7 @@
   </guess>
   <guess word="mas">
     <win x="1">taste bud</win>
+    <win x="1">toilet</win>
   </guess>
   <guess word="flower stem">
     <win x="1">taste bud</win>
@@ -19500,6 +19800,7 @@
   <guess word="lool">
     <win x="1">measuring cup</win>
     <win x="1">stump</win>
+    <win x="1">bracelet</win>
   </guess>
   <guess word="diam">
     <win x="1">measuring cup</win>
@@ -19597,6 +19898,7 @@
   </guess>
   <guess word="mole">
     <win x="1">frown</win>
+    <win x="1">fan</win>
   </guess>
   <guess word="facial">
     <win x="1">frown</win>
@@ -19825,6 +20127,7 @@
   </guess>
   <guess word="creepy">
     <win x="1">win</win>
+    <win x="1">tree house</win>
   </guess>
   <guess word="asian">
     <win x="1">win</win>
@@ -20071,6 +20374,7 @@
   </guess>
   <guess word="swi">
     <win x="1">lawn bowling</win>
+    <win x="1">winter</win>
   </guess>
   <guess word="wad">
     <win x="1">lawn bowling</win>
@@ -20673,6 +20977,7 @@
   </guess>
   <guess word="panda">
     <win x="1">no</win>
+    <win x="1">time</win>
   </guess>
   <guess word="angry dude">
     <win x="1">no</win>
@@ -20983,10 +21288,13 @@
   </guess>
   <guess word="artist">
     <win x="1">sistine chapel</win>
+    <win x="1">broom</win>
+    <win x="1">bobsled</win>
   </guess>
   <guess word="sketch">
     <win x="1">sistine chapel</win>
     <win x="1">match</win>
+    <win x="1">broom</win>
   </guess>
   <guess word="catapult">
     <win x="1">blimp</win>
@@ -21166,6 +21474,7 @@
   </guess>
   <guess word="teacher">
     <win x="1">conductor</win>
+    <win x="1">teacher</win>
   </guess>
   <guess word="1980s">
     <win x="1">conductor</win>
@@ -21324,6 +21633,8 @@
   </guess>
   <guess word="snort">
     <win x="1">snort</win>
+    <win x="1">toilet</win>
+    <win x="1">pots and pans</win>
   </guess>
   <guess word="pai">
     <win x="1">brush</win>
@@ -21336,6 +21647,7 @@
   </guess>
   <guess word="paintbrush">
     <win x="1">brush</win>
+    <win x="1">broom</win>
   </guess>
   <guess word="journey">
     <win x="1">safe</win>
@@ -21525,6 +21837,7 @@
   <guess word="alligator">
     <win x="1">muzzle</win>
     <win x="1">alley</win>
+    <win x="1">cactus</win>
   </guess>
   <guess word="canine">
     <win x="1">muzzle</win>
@@ -21820,6 +22133,7 @@
   </guess>
   <guess word="dong">
     <win x="1">eye</win>
+    <win x="1">cap</win>
   </guess>
   <guess word="brea">
     <win x="1">eye</win>
@@ -22040,6 +22354,7 @@
   </guess>
   <guess word="bea">
     <win x="1">part</win>
+    <win x="1">snowboard</win>
   </guess>
   <guess word="chesta">
     <win x="1">part</win>
@@ -22268,6 +22583,10 @@
     <win x="1">handle</win>
     <win x="1">cross fingers</win>
     <win x="1">mailman</win>
+    <win x="1">toilet</win>
+    <win x="1">grasshopper</win>
+    <win x="1">cactus</win>
+    <win x="1">ruler</win>
   </guess>
   <guess word="drops">
     <win x="1">mountain</win>
@@ -22460,6 +22779,7 @@
     <win x="1">roll</win>
     <win x="1">cross fingers</win>
     <win x="1">broken window</win>
+    <win x="1">pots and pans</win>
   </guess>
   <guess word="tailpipe">
     <win x="1">area code</win>
@@ -22528,6 +22848,8 @@
   <guess word="where">
     <win x="1">dove</win>
     <win x="1">count</win>
+    <win x="1">snowboard</win>
+    <win x="1">bracelet</win>
   </guess>
   <guess word="ask">
     <win x="1">dove</win>
@@ -22593,6 +22915,7 @@
   </guess>
   <guess word="flippers">
     <win x="1">dove</win>
+    <win x="1">fan</win>
   </guess>
   <guess word="wgiawg">
     <win x="1">pile</win>
@@ -22611,6 +22934,7 @@
   </guess>
   <guess word="hedge">
     <win x="1">pile</win>
+    <win x="1">toilet</win>
   </guess>
   <guess word="lawnparcavd">
     <win x="1">pile</win>
@@ -22789,6 +23113,7 @@
   </guess>
   <guess word="sleepsnore">
     <win x="1">count</win>
+    <win x="1">bracelet</win>
   </guess>
   <guess word="ima">
     <win x="1">count</win>
@@ -22876,6 +23201,7 @@
   </guess>
   <guess word="antlers">
     <win x="1">milkshake</win>
+    <win x="1">time</win>
   </guess>
   <guess word="hooves">
     <win x="1">milkshake</win>
@@ -22903,6 +23229,7 @@
   </guess>
   <guess word="buffalo">
     <win x="1">milkshake</win>
+    <win x="1">time</win>
   </guess>
   <guess word="jax">
     <win x="1">milkshake</win>
@@ -22912,6 +23239,7 @@
   </guess>
   <guess word="calf">
     <win x="1">milkshake</win>
+    <win x="1">time</win>
   </guess>
   <guess word="calf">
     <win x="1">milkshake</win>
@@ -22990,6 +23318,7 @@
   </guess>
   <guess word="band">
     <win x="1">stomach</win>
+    <win x="1">sandals</win>
   </guess>
   <guess word="butterlfy">
     <win x="1">peas</win>
@@ -23084,6 +23413,7 @@
   </guess>
   <guess word="wigwag">
     <win x="1">mouth</win>
+    <win x="1">bobsled</win>
   </guess>
   <guess word="runrip">
     <win x="1">mouth</win>
@@ -23096,6 +23426,7 @@
   </guess>
   <guess word="sandbox">
     <win x="1">handle</win>
+    <win x="1">sandals</win>
   </guess>
   <guess word="sandtrap">
     <win x="1">handle</win>
@@ -23120,6 +23451,7 @@
   </guess>
   <guess word="periscope">
     <win x="1">cross fingers</win>
+    <win x="1">pots and pans</win>
   </guess>
   <guess word="fingerprint">
     <win x="1">cross fingers</win>
@@ -23174,6 +23506,7 @@
   </guess>
   <guess word="bounce">
     <win x="1">throw</win>
+    <win x="1">tennis ball</win>
   </guess>
   <guess word="replica">
     <win x="1">throw</win>
@@ -23234,5 +23567,607 @@
   </guess>
   <guess word="brofist">
     <win x="1">feet</win>
+  </guess>
+  <guess word="inchpusre">
+    <win x="1">toilet</win>
+  </guess>
+  <guess word="rig">
+    <win x="1">toilet</win>
+  </guess>
+  <guess word="mcomeyhaman">
+    <win x="1">toilet</win>
+  </guess>
+  <guess word="cpig">
+    <win x="1">toilet</win>
+  </guess>
+  <guess word="pork">
+    <win x="1">toilet</win>
+  </guess>
+  <guess word="new it">
+    <win x="1">toilet</win>
+  </guess>
+  <guess word="wtf how">
+    <win x="1">toilet</win>
+  </guess>
+  <guess word="nooooo">
+    <win x="1">toilet</win>
+  </guess>
+  <guess word="drumsticsk">
+    <win x="1">toilet</win>
+  </guess>
+  <guess word="lawnpark">
+    <win x="1">toilet</win>
+  </guess>
+  <guess word="jumpclown">
+    <win x="1">toilet</win>
+  </guess>
+  <guess word="mjug">
+    <win x="1">toilet</win>
+  </guess>
+  <guess word="bpot">
+    <win x="1">toilet</win>
+  </guess>
+  <guess word="ladle">
+    <win x="1">toilet</win>
+  </guess>
+  <guess word="sout">
+    <win x="1">toilet</win>
+  </guess>
+  <guess word="sugar">
+    <win x="1">toilet</win>
+  </guess>
+  <guess word="toiletpaper">
+    <win x="1">toilet</win>
+  </guess>
+  <guess word="jet">
+    <win x="1">cap</win>
+    <win x="1">elephant</win>
+    <win x="1">cactus</win>
+  </guess>
+  <guess word="cloudyw">
+    <win x="1">rain</win>
+  </guess>
+  <guess word="kidr">
+    <win x="1">grasshopper</win>
+  </guess>
+  <guess word="cfangs">
+    <win x="1">grasshopper</win>
+  </guess>
+  <guess word="lawnpmower">
+    <win x="1">grasshopper</win>
+  </guess>
+  <guess word="yahan sa">
+    <win x="1">grasshopper</win>
+  </guess>
+  <guess word="nhi -.-">
+    <win x="1">tennis ball</win>
+  </guess>
+  <guess word="cpicture">
+    <win x="1">computer</win>
+  </guess>
+  <guess word="[hoptvcr">
+    <win x="1">computer</win>
+  </guess>
+  <guess word="bute">
+    <win x="1">bone</win>
+  </guess>
+  <guess word="lawnpakr">
+    <win x="1">ruler</win>
+  </guess>
+  <guess word="rown">
+    <win x="1">ruler</win>
+  </guess>
+  <guess word="teardops">
+    <win x="1">ruler</win>
+  </guess>
+  <guess word="sruler">
+    <win x="1">ruler</win>
+  </guess>
+  <guess word="[iccweaffle">
+    <win x="1">waffle</win>
+  </guess>
+  <guess word="missils">
+    <win x="1">fan</win>
+  </guess>
+  <guess word="wigw">
+    <win x="1">fan</win>
+  </guess>
+  <guess word="rwhale">
+    <win x="1">fan</win>
+  </guess>
+  <guess word="sahrshark">
+    <win x="1">fan</win>
+  </guess>
+  <guess word="airplane">
+    <win x="1">fan</win>
+  </guess>
+  <guess word="dharkl">
+    <win x="1">fan</win>
+  </guess>
+  <guess word="flyingfish">
+    <win x="1">fan</win>
+  </guess>
+  <guess word="jet">
+    <win x="1">fan</win>
+  </guess>
+  <guess word="whaler">
+    <win x="1">fan</win>
+  </guess>
+  <guess word="porpoise">
+    <win x="1">fan</win>
+  </guess>
+  <guess word="whale">
+    <win x="1">fan</win>
+  </guess>
+  <guess word="dolphine">
+    <win x="1">fan</win>
+  </guess>
+  <guess word="shark">
+    <win x="1">fan</win>
+  </guess>
+  <guess word="gills">
+    <win x="1">fan</win>
+  </guess>
+  <guess word="anchovey">
+    <win x="1">fan</win>
+  </guess>
+  <guess word="anchore">
+    <win x="1">fan</win>
+  </guess>
+  <guess word="fruitseat">
+    <win x="1">fan</win>
+  </guess>
+  <guess word="kya h ye">
+    <win x="1">fan</win>
+  </guess>
+  <guess word="fun">
+    <win x="1">fan</win>
+  </guess>
+  <guess word="seaboat">
+    <win x="1">unicorn</win>
+  </guess>
+  <guess word="ferrgyrivet">
+    <win x="1">unicorn</win>
+  </guess>
+  <guess word="banna">
+    <win x="1">unicorn</win>
+  </guess>
+  <guess word="camke">
+    <win x="1">unicorn</win>
+  </guess>
+  <guess word="banan">
+    <win x="1">unicorn</win>
+  </guess>
+  <guess word="here">
+    <win x="1">broom</win>
+    <win x="1">bobsled</win>
+  </guess>
+  <guess word="sharp">
+    <win x="1">broom</win>
+    <win x="1">bracelet</win>
+  </guess>
+  <guess word="sticks">
+    <win x="1">broom</win>
+  </guess>
+  <guess word="axxe">
+    <win x="1">broom</win>
+  </guess>
+  <guess word="magi">
+    <win x="1">broom</win>
+  </guess>
+  <guess word="cigarteet">
+    <win x="1">broom</win>
+  </guess>
+  <guess word="paint brush">
+    <win x="1">broom</win>
+  </guess>
+  <guess word="marshmallow">
+    <win x="1">broom</win>
+  </guess>
+  <guess word="rude">
+    <win x="1">time</win>
+  </guess>
+  <guess word="pig">
+    <win x="1">time</win>
+  </guess>
+  <guess word="itten">
+    <win x="1">time</win>
+  </guess>
+  <guess word="dog">
+    <win x="1">time</win>
+  </guess>
+  <guess word="puppy">
+    <win x="1">time</win>
+  </guess>
+  <guess word="colalcolar">
+    <win x="1">time</win>
+  </guess>
+  <guess word="collat">
+    <win x="1">time</win>
+  </guess>
+  <guess word="camel">
+    <win x="1">time</win>
+  </guess>
+  <guess word="centaur">
+    <win x="1">time</win>
+  </guess>
+  <guess word="monkeyc">
+    <win x="1">time</win>
+  </guess>
+  <guess word="rawl">
+    <win x="1">time</win>
+  </guess>
+  <guess word="blond">
+    <win x="1">time</win>
+  </guess>
+  <guess word="chempanzee">
+    <win x="1">time</win>
+  </guess>
+  <guess word="illuminati">
+    <win x="1">time</win>
+  </guess>
+  <guess word="behead">
+    <win x="1">time</win>
+  </guess>
+  <guess word="apes">
+    <win x="1">time</win>
+  </guess>
+  <guess word="sheep">
+    <win x="1">time</win>
+  </guess>
+  <guess word="blind">
+    <win x="1">time</win>
+    <win x="1">teacher</win>
+  </guess>
+  <guess word="lamb">
+    <win x="1">time</win>
+  </guess>
+  <guess word="b ison">
+    <win x="1">time</win>
+  </guess>
+  <guess word="black">
+    <win x="1">time</win>
+  </guess>
+  <guess word="lesah">
+    <win x="1">time</win>
+  </guess>
+  <guess word="llama">
+    <win x="1">time</win>
+  </guess>
+  <guess word="liugtbulb">
+    <win x="1">time</win>
+  </guess>
+  <guess word="spotdot">
+    <win x="1">time</win>
+  </guess>
+  <guess word="char">
+    <win x="1">time</win>
+  </guess>
+  <guess word="noooo">
+    <win x="1">time</win>
+  </guess>
+  <guess word="darts">
+    <win x="1">time</win>
+  </guess>
+  <guess word="ein">
+    <win x="1">winter</win>
+  </guess>
+  <guess word="tear">
+    <win x="1">winter</win>
+  </guess>
+  <guess word="win">
+    <win x="1">winter</win>
+  </guess>
+  <guess word="snowlife">
+    <win x="1">pots and pans</win>
+  </guess>
+  <guess word="snorelife">
+    <win x="1">pots and pans</win>
+  </guess>
+  <guess word="ans">
+    <win x="1">pots and pans</win>
+  </guess>
+  <guess word="potsandpans">
+    <win x="1">pots and pans</win>
+  </guess>
+  <guess word="pewdiepie">
+    <win x="1">snowboard</win>
+  </guess>
+  <guess word="what room">
+    <win x="1">snowboard</win>
+  </guess>
+  <guess word="popeye">
+    <win x="1">snowboard</win>
+  </guess>
+  <guess word="kick">
+    <win x="1">snowboard</win>
+  </guess>
+  <guess word="fstreet">
+    <win x="1">tree house</win>
+  </guess>
+  <guess word="crreel">
+    <win x="1">tree house</win>
+  </guess>
+  <guess word="free">
+    <win x="1">tree house</win>
+  </guess>
+  <guess word="tree">
+    <win x="1">tree house</win>
+  </guess>
+  <guess word="fstreetcar">
+    <win x="1">tree house</win>
+  </guess>
+  <guess word="freeway">
+    <win x="1">tree house</win>
+  </guess>
+  <guess word="treehouse">
+    <win x="1">tree house</win>
+  </guess>
+  <guess word="there?">
+    <win x="1">bobsled</win>
+  </guess>
+  <guess word="bah">
+    <win x="1">bobsled</win>
+  </guess>
+  <guess word="locket">
+    <win x="1">bobsled</win>
+  </guess>
+  <guess word="hadle">
+    <win x="1">bobsled</win>
+  </guess>
+  <guess word="wrinkles">
+    <win x="1">bobsled</win>
+  </guess>
+  <guess word="whoopeee">
+    <win x="1">bobsled</win>
+  </guess>
+  <guess word="monster">
+    <win x="1">bobsled</win>
+  </guess>
+  <guess word="llo">
+    <win x="1">bobsled</win>
+  </guess>
+  <guess word="babyh">
+    <win x="1">bobsled</win>
+  </guess>
+  <guess word="highchair">
+    <win x="1">bobsled</win>
+  </guess>
+  <guess word="sirt">
+    <win x="1">bobsled</win>
+  </guess>
+  <guess word="whoopeeeee">
+    <win x="1">bobsled</win>
+  </guess>
+  <guess word="ufffffffff">
+    <win x="1">bobsled</win>
+  </guess>
+  <guess word="ha ku">
+    <win x="1">bobsled</win>
+  </guess>
+  <guess word="mirrror">
+    <win x="1">bobsled</win>
+  </guess>
+  <guess word="reflector">
+    <win x="1">bobsled</win>
+  </guess>
+  <guess word="watch">
+    <win x="1">bobsled</win>
+  </guess>
+  <guess word="pray">
+    <win x="1">bobsled</win>
+  </guess>
+  <guess word="monday">
+    <win x="1">bobsled</win>
+  </guess>
+  <guess word="sleeping">
+    <win x="1">bobsled</win>
+  </guess>
+  <guess word="sleepwalk">
+    <win x="1">bobsled</win>
+  </guess>
+  <guess word="np boo">
+    <win x="1">sandals</win>
+  </guess>
+  <guess word="xoxoxo">
+    <win x="1">sandals</win>
+  </guess>
+  <guess word="xox">
+    <win x="1">sandals</win>
+  </guess>
+  <guess word="raper">
+    <win x="1">sandals</win>
+  </guess>
+  <guess word="hand">
+    <win x="1">sandals</win>
+  </guess>
+  <guess word="handlebars">
+    <win x="1">sandals</win>
+  </guess>
+  <guess word="han">
+    <win x="1">sandals</win>
+  </guess>
+  <guess word="arm">
+    <win x="1">sandals</win>
+  </guess>
+  <guess word="bandana">
+    <win x="1">sandals</win>
+  </guess>
+  <guess word="san">
+    <win x="1">sandals</win>
+  </guess>
+  <guess word="handcuffs">
+    <win x="1">sandals</win>
+  </guess>
+  <guess word="sandbag">
+    <win x="1">sandals</win>
+  </guess>
+  <guess word="sandstorm">
+    <win x="1">sandals</win>
+  </guess>
+  <guess word="sandy">
+    <win x="1">sandals</win>
+  </guess>
+  <guess word="jommy">
+    <win x="1">teacher</win>
+  </guess>
+  <guess word="np sxc bb">
+    <win x="1">teacher</win>
+  </guess>
+  <guess word="no u sxc">
+    <win x="1">teacher</win>
+  </guess>
+  <guess word="abedz ">
+    <win x="1">teacher</win>
+  </guess>
+  <guess word="hi charlie">
+    <win x="1">teacher</win>
+  </guess>
+  <guess word="hi everyone">
+    <win x="1">teacher</win>
+  </guess>
+  <guess word="whut">
+    <win x="1">teacher</win>
+  </guess>
+  <guess word="hinanayh">
+    <win x="1">teacher</win>
+  </guess>
+  <guess word="yellowduck ">
+    <win x="1">teacher</win>
+  </guess>
+  <guess word="anaconda">
+    <win x="1">teacher</win>
+  </guess>
+  <guess word="lololololol">
+    <win x="1">teacher</win>
+  </guess>
+  <guess word="anakooo">
+    <win x="1">teacher</win>
+  </guess>
+  <guess word="elephant">
+    <win x="1">teacher</win>
+  </guess>
+  <guess word="mammal">
+    <win x="1">teacher</win>
+  </guess>
+  <guess word="must">
+    <win x="1">teacher</win>
+  </guess>
+  <guess word="tac">
+    <win x="1">teacher</win>
+  </guess>
+  <guess word="musta">
+    <win x="1">teacher</win>
+  </guess>
+  <guess word="che">
+    <win x="1">teacher</win>
+  </guess>
+  <guess word="moustache">
+    <win x="1">teacher</win>
+  </guess>
+  <guess word="hax..">
+    <win x="1">teacher</win>
+  </guess>
+  <guess word="water">
+    <win x="1">thermometer</win>
+  </guess>
+  <guess word="lte">
+    <win x="1">thermometer</win>
+  </guess>
+  <guess word="utt">
+    <win x="1">thermometer</win>
+  </guess>
+  <guess word="helocopter">
+    <win x="1">thermometer</win>
+  </guess>
+  <guess word="ostrich">
+    <win x="1">thermometer</win>
+  </guess>
+  <guess word="waterbe">
+    <win x="1">thermometer</win>
+  </guess>
+  <guess word="diameter">
+    <win x="1">thermometer</win>
+  </guess>
+  <guess word="dwinter">
+    <win x="1">thermometer</win>
+  </guess>
+  <guess word="why not man">
+    <win x="1">bracelet</win>
+  </guess>
+  <guess word="seewatchg">
+    <win x="1">bracelet</win>
+  </guess>
+  <guess word="face">
+    <win x="1">bracelet</win>
+  </guess>
+  <guess word="nekclae">
+    <win x="1">bracelet</win>
+  </guess>
+  <guess word="hot dog">
+    <win x="1">bracelet</win>
+  </guess>
+  <guess word="p;illow">
+    <win x="1">bracelet</win>
+  </guess>
+  <guess word="pillow">
+    <win x="1">bracelet</win>
+  </guess>
+  <guess word="bread">
+    <win x="1">bracelet</win>
+  </guess>
+  <guess word="best">
+    <win x="1">bracelet</win>
+  </guess>
+  <guess word="bed">
+    <win x="1">bracelet</win>
+  </guess>
+  <guess word="oh sorry ">
+    <win x="1">bracelet</win>
+  </guess>
+  <guess word="thick">
+    <win x="1">bracelet</win>
+  </guess>
+  <guess word="dogcat">
+    <win x="1">bracelet</win>
+  </guess>
+  <guess word="easel">
+    <win x="1">bracelet</win>
+  </guess>
+  <guess word="hosue">
+    <win x="1">bracelet</win>
+  </guess>
+  <guess word="lids">
+    <win x="1">bracelet</win>
+  </guess>
+  <guess word="manshe">
+    <win x="1">bracelet</win>
+  </guess>
+  <guess word="cat">
+    <win x="1">bracelet</win>
+  </guess>
+  <guess word="dog">
+    <win x="1">bracelet</win>
+  </guess>
+  <guess word="wasy">
+    <win x="1">bracelet</win>
+  </guess>
+  <guess word="bwoom">
+    <win x="1">bracelet</win>
+  </guess>
+  <guess word="mop">
+    <win x="1">bracelet</win>
+  </guess>
+  <guess word="easer">
+    <win x="1">bracelet</win>
+  </guess>
+  <guess word="nknfie">
+    <win x="1">bracelet</win>
+  </guess>
+  <guess word="rubbber">
+    <win x="1">bracelet</win>
+  </guess>
+  <guess word="stakes">
+    <win x="1">bracelet</win>
   </guess>
 </words>

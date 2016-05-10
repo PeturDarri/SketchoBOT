@@ -25,7 +25,7 @@ namespace Guesser
         TcpClient tcpclnt;
         Stream stm;
         string ip = "173.255.196.158";
-        int port = 5004;
+        int port = 5005;
         List<string> sendQueue = new List<string>();
 
         //Other
@@ -63,6 +63,7 @@ namespace Guesser
         List<string> partials = new List<string>();
         List<string> partialWords = new List<string>();
         List<string> popPartials = File.ReadAllLines(AppDomain.CurrentDomain.BaseDirectory + "popPartials.txt").ToList();
+        List<string> words2guess = new List<string>();
 
         //GIF
         int gifIndex = 0;
@@ -131,7 +132,7 @@ namespace Guesser
                 else
                 {
                     //login1 = "LOGIN=ANON " + name;
-                    login1 = "LOGIN=ADMIN " + name;
+                    login1 = "LOGIN=ANON " + name;
                 }
 
                 string[] loginString = {
@@ -1440,7 +1441,7 @@ namespace Guesser
                         if (!guessedWords.Contains(partial.Substring(i, 3)))
                         {
                             Send("CHAT=" + partial.Substring(i, 3));
-                            Thread.Sleep(300);
+                            Thread.Sleep(400);
                             //UpdateChat("error", "partial = " + partial.Substring(i, 3));
                         }
                     }
@@ -1474,8 +1475,16 @@ namespace Guesser
                             if (!partialWords.Contains(word))
                             {
                                 partialWords.Add(word);
-                                Send("CHAT=" + word);
-                                Thread.Sleep(500);
+                                if (words2guess.Count > 2)
+                                {
+                                    Send("CHAT=" + words2guess[0] + words2guess[1] + words2guess[2]);
+                                    words2guess.Clear();
+                                }
+                                else
+                                {
+                                    words2guess.Add(word);
+                                }
+                                Thread.Sleep(600);
                                 //UpdateChat("error", "PARTIAL GUESS = " + word);
                             }
                         }
@@ -1484,6 +1493,15 @@ namespace Guesser
                             e.Cancel = true;
                             return;
                         }
+                    }
+                }
+                if (words2guess.Count > 0)
+                {
+                    foreach (var word in words2guess)
+                    {
+                        Send("CHAT=" + word);
+                        words2guess.Remove(word);
+                        Thread.Sleep(200);
                     }
                 }
             }
